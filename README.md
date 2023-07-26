@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🎓 I'm a CS major at KNUST, Ghana<br>🌱 I'm currently working on becoming a full stack software engineer<br>🖤 I'm passionate about tech in general and I have great interest in AI<br>👀 Outside tech, I love the world of business & entrepreneurship<br>💞 I'm looking to collaborate on anything full stack and WebML
+🎓 I'm a CS major at KNUST, Ghana<br>🌱 I'm currently working on becoming a full stack software engineer<br>🖤 I'm passionate about tech in general and I have great interest in AI<br>👀 Outside tech, I love the world of business & entrepreneurship<br>💞 I'm looking to collaborate on anything full stack related and WebML
 
 
 ## 🌐 Socials:
